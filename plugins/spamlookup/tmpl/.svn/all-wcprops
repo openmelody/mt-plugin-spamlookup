@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mtplugins/!svn/ver/254/trunk/spamlookup/plugins/spamlookup/tmpl
+END
+url_config.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mtplugins/!svn/ver/50/trunk/spamlookup/plugins/spamlookup/tmpl/url_config.tmpl
+END
+lookup_config.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mtplugins/!svn/ver/254/trunk/spamlookup/plugins/spamlookup/tmpl/lookup_config.tmpl
+END
+word_config.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mtplugins/!svn/ver/37/trunk/spamlookup/plugins/spamlookup/tmpl/word_config.tmpl
+END
